@@ -1,5 +1,7 @@
 package pconcurrente.ejercicio7;
 
+import java.util.Random;
+
 public class FabricarBateria implements Runnable {
 
     private Vehiculo vehiculo;
@@ -10,9 +12,10 @@ public class FabricarBateria implements Runnable {
 
     @Override
     public void run() {
+        Random r = new Random();
         System.out.println("FB: Fabricando batería");
         try {
-            Thread.sleep((long)((Math.random()*9000)+1000));
+            Thread.sleep(r.nextInt(1000,2000));
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
