@@ -31,7 +31,7 @@ namespace Ejercicio14
                         {
                             // Aquí puedes procesar los bytes leídos, por ejemplo, convertir a texto y mostrar por pantalla
                             string chunk = System.Text.Encoding.UTF8.GetString(buffer, 0, bytesLeidos);
-                            Console.WriteLine(chunk);
+                            //Console.WriteLine(chunk);
 
                             leidosTotales += bytesLeidos;
                             float porcentaje = ((leidosTotales / (float)tamañoFichero) * 100);
