@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Ejercicio12"
         mc:Ignorable="d"
         Closing="Window_Closing"
-        Title="Ejercicio12" Height="90.41" Width="300.424">
+        Title="Ejercicio20" Height="90.41" Width="300.424">
     <StackPanel>
         <Label  Name="label" Content="Hola"></Label>
         <Button Name="boton" Content="Pulsar" Click="Button_Click"/>

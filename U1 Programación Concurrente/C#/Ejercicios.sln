@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio12", "Ejercicio12\Ejercicio12.csproj", "{07CEB350-6381-4F7A-A544-EDEF3FFBEFE1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio20", "Ejercicio12\Ejercicio20.csproj", "{07CEB350-6381-4F7A-A544-EDEF3FFBEFE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio13", "Ejercicio13\Ejercicio13.csproj", "{33726ACA-CB85-46E2-A65B-4FA578A0CA63}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio21", "Ejercicio13\Ejercicio21.csproj", "{33726ACA-CB85-46E2-A65B-4FA578A0CA63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio11", "Ejercicio11\Ejercicio11.csproj", "{2DD40E30-E110-49AD-8609-C6E7D9C2B1C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio19", "Ejercicio11\Ejercicio19.csproj", "{2DD40E30-E110-49AD-8609-C6E7D9C2B1C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio14", "Ejercicio14\Ejercicio14.csproj", "{A2F9C739-9DC9-4E26-A1F1-08E288AD76DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio22", "Ejercicio14\Ejercicio22.csproj", "{A2F9C739-9DC9-4E26-A1F1-08E288AD76DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

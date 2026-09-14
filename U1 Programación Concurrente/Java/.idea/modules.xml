@@ -3,6 +3,27 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ejercicios.iml" filepath="$PROJECT_DIR$/Ejercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio1/ejercicio1.iml" filepath="$PROJECT_DIR$/ejercicio1/ejercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio10/ejercicio10.iml" filepath="$PROJECT_DIR$/ejercicio10/ejercicio10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio11/ejercicio11.iml" filepath="$PROJECT_DIR$/ejercicio11/ejercicio11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio12/ejercicio12.iml" filepath="$PROJECT_DIR$/ejercicio12/ejercicio12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio13/ejercicio13.iml" filepath="$PROJECT_DIR$/ejercicio13/ejercicio13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio14/ejercicio14.iml" filepath="$PROJECT_DIR$/ejercicio14/ejercicio14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio15/ejercicio15.iml" filepath="$PROJECT_DIR$/ejercicio15/ejercicio15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio16/ejercicio16.iml" filepath="$PROJECT_DIR$/ejercicio16/ejercicio16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio17/ejercicio17.iml" filepath="$PROJECT_DIR$/ejercicio17/ejercicio17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio18/ejercicio18.iml" filepath="$PROJECT_DIR$/ejercicio18/ejercicio18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio2/ejercicio2.iml" filepath="$PROJECT_DIR$/ejercicio2/ejercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio3/ejercicio3.iml" filepath="$PROJECT_DIR$/ejercicio3/ejercicio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio4/ejercicio4.iml" filepath="$PROJECT_DIR$/ejercicio4/ejercicio4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio5/ejercicio5.iml" filepath="$PROJECT_DIR$/ejercicio5/ejercicio5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio6/ejercicio6.iml" filepath="$PROJECT_DIR$/ejercicio6/ejercicio6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio7/ejercicio7.iml" filepath="$PROJECT_DIR$/ejercicio7/ejercicio7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio8/ejercicio8.iml" filepath="$PROJECT_DIR$/ejercicio8/ejercicio8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio8b/ejercicio8b.iml" filepath="$PROJECT_DIR$/ejercicio8b/ejercicio8b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio8c/ejercicio8c.iml" filepath="$PROJECT_DIR$/ejercicio8c/ejercicio8c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio8d/ejercicio8d.iml" filepath="$PROJECT_DIR$/ejercicio8d/ejercicio8d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio9/ejercicio9.iml" filepath="$PROJECT_DIR$/ejercicio9/ejercicio9.iml" />
     </modules>
   </component>
 </project>

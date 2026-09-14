@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Ejercicio14"
         mc:Ignorable="d"
-        Title="Ejercicio14" Height="113.346" Width="179.136">
+        Title="Ejercicio22" Height="113.346" Width="179.136">
     <StackPanel>
         <Button Content="Leer archivo" Click="Button_Click"/>
         <ProgressBar Name="progressBar" Height="20"/>

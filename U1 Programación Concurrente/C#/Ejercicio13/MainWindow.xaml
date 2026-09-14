@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Ejercicio13"
         mc:Ignorable="d"
-        Title="Ejercicio13" Height="94.386" Width="187.924">
+        Title="Ejercicio21" Height="94.386" Width="187.924">
     <StackPanel>
         <Label Name="label"/>
         <Button Content="Descargar archivo" Click="Button_Click"/>
